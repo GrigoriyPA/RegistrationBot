@@ -5,7 +5,7 @@ TELEGRAM_TOKEN = ""
 ADMINS = {}
 
 USERS_INFORMATION_DB_NAME = "data/users_inf.db"
-GEOLOCATION_PATH = "data/map.jfif"
+GEOLOCATION_PATH = "data/map.png"
 
 TIMEZONE = datetime.timedelta(hours=0)
 TIME_STEP = datetime.timedelta(minutes=15)
